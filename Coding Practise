@@ -1,1 +1,20 @@
+<!DOCTYPE html> 
+<html>
+<head>
+<title>Try</title>
+</head>
+<body>
+   <p><b><h2>Google direct link:</h2></b></p>
+   <p><i><h3>Click the photo below to access <b>Google</b></p></i></h3>
+   <a href="https://www.google.com/" target="_main">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6WwgH7Nl5_AW9nDCnR2Ozb_AU3rkIbSJdAg&s" alt="Google" height="100">
+   </a>
+   <br/>
+   <p><b><h2>Amazon India direct link:</h2></b></p>
+   <p><i><h3>Click the photo below to access <b>Amazon</b></p></i></h3>
+   <a href="https://www.amazon.in/" target="_main">
+   <img src="https://play-lh.googleusercontent.com/G7jAks-PRl4d7IkL-s3Ir44nGyPq0Yh872N5UMwZYIJz4wG1Oj0DqoQjsAR5ddKZbQ" alt="Amazon" height="100">
+   </a>
+</body>
+</html>
 
